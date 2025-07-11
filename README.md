@@ -26,6 +26,7 @@ The game generates a random number between 1 and 100. The player tries to guess 
 
 /guessing-game
 │
-├── index.html # Main HTML file
-├── styles.css # CSS styles
-└── script.js # JavaScript logic
+├── index.html    # Main HTML file
+├── styles.css    # CSS styles
+└── script.js     # JavaScript logic
+
