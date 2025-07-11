@@ -24,9 +24,10 @@ The game generates a random number between 1 and 100. The player tries to guess 
 
 ## File Structure
 
+```md
 /guessing-game
 │
 ├── index.html    # Main HTML file
 ├── styles.css    # CSS styles
-└── script.js     # JavaScript logic
-
+├── script.js     # JavaScript logic
+└── README.md     # This file
